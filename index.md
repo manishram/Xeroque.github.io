@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -95,7 +94,6 @@
       <nav class="navbar navbar-light justify-content-between">
         <span></span>
         <a class="btn btn-outline-dark" href="https://store.steampowered.com/app/1291340/Townscaper/" role="button">Read More</a>
-        </form>
       </nav>
     </div>
   </div>
