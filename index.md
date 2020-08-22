@@ -27,7 +27,7 @@
   <!-- navbar ending -->
   <div class="row">
     <div class="col-md-12 titlecard">
-      <p>I love <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+      <p id="title">I love <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
     </div>
   </div>
   <!-- h2 to introduce the cards -->
