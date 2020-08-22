@@ -31,13 +31,9 @@ a:hover{
   font-size: 4vw;
   color: #0F1A20;
 }
-#title {
-  height: 5vw;
-}
+
 /* Titlecard Fluid Part*/
 .typed-text {
-  margin-top: 0;
-  padding-top: 0;
   font-family: 'Abril Fatface', cursive;
   font-size: 6vw;
   color: #0072BB;
@@ -45,7 +41,6 @@ a:hover{
 
 /* Titlecard Blinking Cursor*/
 .cursor {
-  height: 4.5vw;
   display: inline-block;
   background-color: #0072BB;
   width: .2rem;
