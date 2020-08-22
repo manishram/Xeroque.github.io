@@ -43,6 +43,7 @@ a:hover{
 
 /* Titlecard Blinking Cursor*/
 .cursor {
+  height: 4.5vw;
   display: inline-block;
   background-color: #0072BB;
   width: .2rem;
